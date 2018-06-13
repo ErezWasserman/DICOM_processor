@@ -1,0 +1,4 @@
+The DICOM_files folder is a '*.dcm' source folder for the DICOM files. 
+This is the folder from which the 'DICOM_processor.get_metadata_list' takes the files in order to extract meta-data and order them in a hierarchical directory-tree.
+Alternatively, you can download dcm files directly by calling the 'DICOM_processor.get_dcm_from_url' function with a downloadable url address.
+Enjoy!
